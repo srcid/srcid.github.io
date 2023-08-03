@@ -5,7 +5,7 @@ description: >-
   Bem-vindo ao meu blog pessoal, sou Alcides. Aqui falo de programação e
   tecnologia. Explore tutoriais, ferramentas e projetos práticos. Bora programar!
 baseurl: ""
-url: "https://alcides.dev.br/"
+url: "https://alcides.dev.br"
 
 # Social
 twitter_username: alcides_dev_br
