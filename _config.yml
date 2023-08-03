@@ -1,11 +1,13 @@
 avatar: https://avatars.githubusercontent.com/u/34487193?v=4
-title: Alcides.dev.br
+title: Alcides Ribeiro
 email: alcides.dev.br@gmail.com
 description: >-
   Bem-vindo ao meu blog pessoal, sou Alcides. Aqui falo de programação e
   tecnologia. Explore tutoriais, ferramentas e projetos práticos. Bora programar!
 baseurl: ""
 url: "https://alcides.dev.br/"
+
+# Social
 twitter_username: alcides_dev_br
 github_username:  srcid
 linkedin_username: srcid
