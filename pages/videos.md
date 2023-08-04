@@ -11,7 +11,7 @@ Você também pode me acompanhar no meu canal no youtube onde compartilho també
 
 <ul style="list-style: none; margin: 0px;">
     {% for youtubeId in page.youtubeIds %}
-        <li>
+        <li style="margin-bottom: 16px;">
             {% include youtubePlayer.html id=youtubeId %}
         </li>
     {% endfor %}
